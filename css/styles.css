@@ -82,9 +82,14 @@ ul {
   padding: 32px 0;
   gap: 50px;
 }
-
+.contacts-nav {
+  margin-left: auto;
+}
+.header {
+  margin-left: auto;
+}
 .header-link-con {
-  margin-right: 340px;
+  margin-right: 331px;
 }
 .contact-mail {
   margin-right: 50px;
@@ -141,6 +146,7 @@ ul {
   text-decoration: none;
 }
 .logo {
+  margin-right: 93px;
   color: #000;
   font-family: 'Raleway';
   font-weight: 700;
