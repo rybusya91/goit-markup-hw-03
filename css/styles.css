@@ -100,7 +100,6 @@ ul {
 }
 
 .header-link {
-  margin-right: 93px;
   font-weight: 500;
   font-size: 14px;
   line-height: calc(16 / 14);
@@ -142,7 +141,6 @@ ul {
   text-decoration: none;
 }
 .logo {
-  margin-right: 93px;
   color: #000;
   font-family: 'Raleway';
   font-weight: 700;
