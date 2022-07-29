@@ -270,7 +270,10 @@ ul {
 /* чем мы занимаемся */
 .flex-container-gap {
   gap: 30px;
-  margin-bottom: 94px;
+}
+/* чем мы занимаемся */
+.sec {
+  padding-bottom: 94px;
 }
 /* наша команда */
 .flex-container-four {
@@ -291,7 +294,8 @@ ul {
 }
 .button {
   border: none;
-  margin-bottom: 94px;
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 /* section */
@@ -399,9 +403,11 @@ ul {
 }
 .footer-item {
   display: block;
-  margin-bottom: 9px;
 }
 
+.footer-it {
+  margin-bottom: 9px;
+}
 .footer-adress {
   font-family: 'Roboto';
   font-style: normal;
